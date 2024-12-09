@@ -1,5 +1,5 @@
 # meow meow meow meow
-#RAAAAAAA
+#Lord wala ko kasabot
 print("meow")
 def Hi_SHeena():
     print("Lord tabang")
