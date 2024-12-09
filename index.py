@@ -1,0 +1,1 @@
+print("gigutom nako")
