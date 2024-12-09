@@ -5,4 +5,4 @@ print("meow")
 def Hi_SHeena():
     print("Lord tabang")
 
-print("wala koy iring")
+print("naa nakoy iring")
