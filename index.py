@@ -1,6 +1,4 @@
-print("gigutom na kaayo ko")
-
-
+# meow meow meow meowg
 print("meow")
 def Hi_SHeena():
     print("Lord tabang")
